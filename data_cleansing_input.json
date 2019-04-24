@@ -1,0 +1,2002 @@
+[
+  {
+    "TripId": "PEbOqqCNFkkaU8QAVWRE6cJcdN9ARB3zC/EstvdZK0w=",
+    "Itinerary": "LOS-ADD-DXB-ADD-LOS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ADD",
+    "ArrivalAirport": "DXB",
+    "Leg": "1",
+    "SegmentOrder": "4",
+    "TransactionDateUTC": "2019-01-13 14:04:35.283 UTC"
+  },
+  {
+    "TripId": "cex0d6CWJJ/17XVoTDVBRUFzvjxlPjMTBsxALPHglzI=",
+    "Itinerary": "HAV-BOG-MAD-BOG-HAV",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "BOG",
+    "ArrivalAirport": "HAV",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2015-06-26 14:51:28.357 UTC"
+  },
+  {
+    "TripId": "rkTX6dUUWp7wVGkgBFDAPEKqiGu9XTvrXeCDIaDdoX8=",
+    "Itinerary": "AMS-GIG-FCO-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "FCO",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2014-11-29 05:32:38.117 UTC"
+  },
+  {
+    "TripId": "Ni1BLdaGUDk9Auw/xrhQO3YkK7TJUwXJkmxMnnqnps0=",
+    "Itinerary": "NUE-AMS-DTW-AMS-NUE",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DTW",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-12-14 12:09:12.267 UTC"
+  },
+  {
+    "TripId": "0jHM3RUKRjTvNLGnKnWG6ME3Uq9C881QlK+jLq8zd2k=",
+    "Itinerary": "YUL-DOH-DXB-DOH-YUL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DOH",
+    "ArrivalAirport": "YUL",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-03-12 20:28:38.847 UTC"
+  },
+  {
+    "TripId": "TndF3XuBSDpCpuo2oC9IX7lU+QFEAUTEVven6ivPOAE=",
+    "Itinerary": "AMS-CPH-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CPH",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-05-13 16:48:12.773 UTC"
+  },
+  {
+    "TripId": "nJgP9wfyKV7j08qV0qJ7hOsz3A+Ba4EX3TI+v/AgToI=",
+    "Itinerary": "AMS-LHR-EZE-LHR-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "EZE",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-01-08 12:58:45.657 UTC"
+  },
+  {
+    "TripId": "EHEEC0AEQqI0C3RA6+oPCjRvDui5wAjpb/WSkOYo6v0=",
+    "Itinerary": "BUD-DXB-DPS-DXB-BUD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DXB",
+    "ArrivalAirport": "DPS",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-02-26 18:32:45.143 UTC"
+  },
+  {
+    "TripId": "ANlIEI3X9SfyCUqSnmoQECLxKzhzlsu3fXL7bV60b8Q=",
+    "Itinerary": "AMS-MUC-SPU-FRA-LAX-MUC-FRA-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "MUC",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-04-29 15:39:00.627 UTC"
+  },
+  {
+    "TripId": "kB6T9jiDW3KRjGYGr5siaYs4EOvA36FHWKqEvJ3s6UU=",
+    "Itinerary": "MBA-ZNZ",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "MBA",
+    "ArrivalAirport": "ZNZ",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-05-21 17:36:51.477 UTC"
+  },
+  {
+    "TripId": "vb1vbG8EyBGJHDq2nrAtC2+Hx7bMFGvo/QicQX7dHck=",
+    "Itinerary": "LBA-AMS-LBA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "LBA",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-02-09 21:51:50.780 UTC"
+  },
+  {
+    "TripId": "ZvWFPt6gKyIUsVvXsmnGTrKgztAXbrNUKqZzJCJqlJc=",
+    "Itinerary": "MEX-IAH-SYD-TSV",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "IAH",
+    "ArrivalAirport": "SYD",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-09-10 04:00:37.950 UTC"
+  },
+  {
+    "TripId": "DXZqHD1XDhEgha/Rl9gKyO6CincYvq/Fn2VYrSGRd2U=",
+    "Itinerary": "CAN-LHR-CDG-CAN-SGN-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "CDG",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-03 20:47:42.267 UTC"
+  },
+  {
+    "TripId": "QxX1VmASrQFoja9ISAIpW82f90gereW9qxutTjMU4Rs=",
+    "Itinerary": "CAN-LHR-CAN-DPS-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DPS",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-02 16:30:30.030 UTC"
+  },
+  {
+    "TripId": "CZhbSAGB3Ugnr4/f/fTyQuiHth3XKhV8yiSsKbJWAlE=",
+    "Itinerary": "AMS-CGK-BKK",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "CGK",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-03-10 16:27:24.030 UTC"
+  },
+  {
+    "TripId": "1NEx2Pg5VFcI+OqGA/3fcxrs9r9hSrI9DPoTfD1b98Y=",
+    "Itinerary": "VIE-AMS-SEA-PHX-ATL-CDG-VIE",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CDG",
+    "ArrivalAirport": "VIE",
+    "Leg": "2",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2015-05-31 09:27:27.910 UTC"
+  },
+  {
+    "TripId": "1NEx2Pg5VFcI+OqGA/3fcxrs9r9hSrI9DPoTfD1b98Y=",
+    "Itinerary": "VIE-AMS-SEA-PHX-ATL-CDG-VIE",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ATL",
+    "ArrivalAirport": "CDG",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2015-05-31 09:27:27.910 UTC"
+  },
+  {
+    "TripId": "nJgP9wfyKV7j08qV0qJ7hOsz3A+Ba4EX3TI+v/AgToI=",
+    "Itinerary": "AMS-LHR-EZE-LHR-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2019-01-08 12:58:45.657 UTC"
+  },
+  {
+    "TripId": "IfVAfCBbxf5Au+H20o7p9e+lsiQku2m8WKTuSeu0b6k=",
+    "Itinerary": "JNB-AUH-BRU-AUH-JNB",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "JNB",
+    "ArrivalAirport": "AUH",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-07-13 12:58:29.913 UTC"
+  },
+  {
+    "TripId": "IfVAfCBbxf5Au+H20o7p9e+lsiQku2m8WKTuSeu0b6k=",
+    "Itinerary": "JNB-AUH-BRU-AUH-JNB",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AUH",
+    "ArrivalAirport": "BRU",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2015-07-13 12:58:29.913 UTC"
+  },
+  {
+    "TripId": "2lnYbd31nulDJE2RFcUkcUOPU6dn01LjyF+S2myoTDM=",
+    "Itinerary": "YYZ-LHR-IAD-MSY",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "YYZ",
+    "ArrivalAirport": "LHR",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-02-06 11:41:20.680 UTC"
+  },
+  {
+    "TripId": "f35L6vq09tUt26mKkqjslgEKlXgrUCUIJRQnTpKa1Po=",
+    "Itinerary": "MEX-OAX-MEX-LAX",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "MEX",
+    "ArrivalAirport": "OAX",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-09-25 21:50:59.573 UTC"
+  },
+  {
+    "TripId": "ARyrQlRJLuY3v4GfmrGeo2NFVsH9UUcxJETTLUa4CmY=",
+    "Itinerary": "BRU-LIS-FAO-LIS-BRU",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "BRU",
+    "ArrivalAirport": "LIS",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-03-18 10:57:26.430 UTC"
+  },
+  {
+    "TripId": "1hZhErT+98Z4M/ad2OkXq2RKVtLhzSMdh1WnLiQjxnQ=",
+    "Itinerary": "JHB-KUL-TPE-KUL-JHB",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "TPE",
+    "ArrivalAirport": "KUL",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-11-29 10:40:08.330 UTC"
+  },
+  {
+    "TripId": "5Qz11FJcpCOAPyiBuq3Fo63yU/qdjopRTmPsqXnqaZE=",
+    "Itinerary": "EWR-FRA-IKA-VIE-JFK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "IKA",
+    "ArrivalAirport": "VIE",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-03-13 19:40:39.950 UTC"
+  },
+  {
+    "TripId": "5Qz11FJcpCOAPyiBuq3Fo63yU/qdjopRTmPsqXnqaZE=",
+    "Itinerary": "EWR-FRA-IKA-VIE-JFK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "VIE",
+    "ArrivalAirport": "JFK",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-03-13 19:40:39.950 UTC"
+  },
+  {
+    "TripId": "1NEx2Pg5VFcI+OqGA/3fcxrs9r9hSrI9DPoTfD1b98Y=",
+    "Itinerary": "VIE-AMS-SEA-PHX-ATL-CDG-VIE",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "SEA",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2015-05-31 09:27:27.910 UTC"
+  },
+  {
+    "TripId": "zxUi5amh7mShD/A5gbu6dgmvW8RvJrgx0DDARV0U0Hc=",
+    "Itinerary": "AMS-OSL-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "OSL",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-11-21 12:27:31.187 UTC"
+  },
+  {
+    "TripId": "HPLEyvkReIXi0IDrV3hQlEj36kH5qD3KVoewtPATVjk=",
+    "Itinerary": "FRA-SAW-FRA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SAW",
+    "ArrivalAirport": "FRA",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-04-06 16:52:14.950 UTC"
+  },
+  {
+    "TripId": "2twW/8NF2qW3tA2N/d45Tr14hxNSAbUq6uDiz+XYG9M=",
+    "Itinerary": "OPO-AMS-ICN-AMS-OPO",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "OPO",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-05-05 09:28:45.650 UTC"
+  },
+  {
+    "TripId": "J2KfcMbJASH5h1qlzoYazoJjEFoETToIuqZFIXo26Ok=",
+    "Itinerary": "CAN-LHR-CDG-CAN-SGN-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-05 14:50:12.377 UTC"
+  },
+  {
+    "TripId": "tRZgGEmA9ZuLAwk0YiHW/HVS7U0JmzCYAyjnZdQxgSo=",
+    "Itinerary": "CPH-AMM-CPH",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CPH",
+    "ArrivalAirport": "AMM",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-12-16 17:12:35.577 UTC"
+  },
+  {
+    "TripId": "tRZgGEmA9ZuLAwk0YiHW/HVS7U0JmzCYAyjnZdQxgSo=",
+    "Itinerary": "CPH-AMM-CPH",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMM",
+    "ArrivalAirport": "CPH",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-12-16 17:12:35.577 UTC"
+  },
+  {
+    "TripId": "p/TZ4BwLV/iAWoN/x2MXOvNZTEFr0uxVNAQ0Ivl14t8=",
+    "Itinerary": "BLQ-MAD-EZE-MAD-BLQ",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "EZE",
+    "ArrivalAirport": "MAD",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-01-25 14:56:37.930 UTC"
+  },
+  {
+    "TripId": "RCkksSu1nDuvpyPRIqBjfiWiouMRiIJjipekCh1xQxA=",
+    "Itinerary": "YYZ-CAN-KMG-CAN-YYZ",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "KMG",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-08-04 01:59:49.653 UTC"
+  },
+  {
+    "TripId": "yVlqC/EOjT3sgB/2DsYQEACGFHVzjnAH7uR5WYtlX60=",
+    "Itinerary": "SEA-YVR-TPE-YVR-SEA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "TPE",
+    "ArrivalAirport": "YVR",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-04-11 05:24:31.813 UTC"
+  },
+  {
+    "TripId": "rT1x1e/EzmLZcAzByySpctVz8WOYAbYKV446LbOBx7w=",
+    "Itinerary": "FRA-CLT-LGA-CLT-FRA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CLT",
+    "ArrivalAirport": "FRA",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-04-03 08:57:54.797 UTC"
+  },
+  {
+    "TripId": "8iKgRlH+SlUStAj040SKZD+nTPCZp+6ttW6gHF8dz78=",
+    "Itinerary": "ZRH-ZAG-ZRH",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ZAG",
+    "ArrivalAirport": "ZRH",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-03-19 14:03:32.737 UTC"
+  },
+  {
+    "TripId": "fg5imY8itNTLwU2YthT+zh5cIDpk18Ln1dbnlGSUJLc=",
+    "Itinerary": "DNK-VIE-ZRH-VIE-DNK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ZRH",
+    "ArrivalAirport": "VIE",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-07-14 07:34:28.577 UTC"
+  },
+  {
+    "TripId": "JkesTNP3qm1VPs3x/OnQOYD7VfQC9NifAwzBN9YwD2Q=",
+    "Itinerary": "BNE-LAX-JFK-LAX-BNE",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LAX",
+    "ArrivalAirport": "BNE",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-04-10 11:30:32.577 UTC"
+  },
+  {
+    "TripId": "sSR2vSjUVQompMsCZpAVPap+MWWquBhuFRFrlUoESA0=",
+    "Itinerary": "LAX-LHR-MXP-LHR-LAX",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "LAX",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-09-07 00:27:47.630 UTC"
+  },
+  {
+    "TripId": "ANlIEI3X9SfyCUqSnmoQECLxKzhzlsu3fXL7bV60b8Q=",
+    "Itinerary": "AMS-MUC-SPU-FRA-LAX-MUC-FRA-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SPU",
+    "ArrivalAirport": "FRA",
+    "Leg": "1",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2019-04-29 15:39:00.627 UTC"
+  },
+  {
+    "TripId": "dzq8xq0kxElBhXmFwvFBovhBUoEH/Yj/4VE8J99dtp4=",
+    "Itinerary": "CAN-LHR-CAN-AKL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-05 16:17:27.737 UTC"
+  },
+  {
+    "TripId": "cex0d6CWJJ/17XVoTDVBRUFzvjxlPjMTBsxALPHglzI=",
+    "Itinerary": "HAV-BOG-MAD-BOG-HAV",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MAD",
+    "ArrivalAirport": "BOG",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-06-26 14:51:28.357 UTC"
+  },
+  {
+    "TripId": "vqcgbrGPl2fHHU7YxjP4J6QfnjcD+fCDxOgmAzbUCqY=",
+    "Itinerary": "AMS-SVO-CEK-SVO-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SVO",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-05-31 11:21:16.280 UTC"
+  },
+  {
+    "TripId": "oWlXIWpAnqTtp/n/l19SQqdX5Qmcgm7OVq62nlqD0AY=",
+    "Itinerary": "PHL-YUL-BCN-YUL-PHL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "PHL",
+    "ArrivalAirport": "YUL",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-01 19:16:17.687 UTC"
+  },
+  {
+    "TripId": "qXntnOAZ6xo8iqhgamrEy85fYFZcVAvAVO6JLvgmVmg=",
+    "Itinerary": "JNB-AUH-FCO-AUH-JNB",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "JNB",
+    "ArrivalAirport": "AUH",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-12-14 05:52:38.303 UTC"
+  },
+  {
+    "TripId": "ckrQOydLbP0wpMiodFTHkV7tygnR2xK06B3KD7aIIGk=",
+    "Itinerary": "HAN-SVO-FRA-SXF-SVO-HAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SXF",
+    "ArrivalAirport": "SVO",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-12-05 13:55:31.467 UTC"
+  },
+  {
+    "TripId": "gYZwxHrT8eF6dInKlSGo3vk4/+IBzTKr4cjBzNV0/LU=",
+    "Itinerary": "SGN-CAN-LAX-CAN-SGN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "LAX",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-05-12 05:34:56.767 UTC"
+  },
+  {
+    "TripId": "GZGCMwUOvXgOHoaVxfDrAFxBOeGlY8j8iy6ucfECCuQ=",
+    "Itinerary": "TBS-IST-TBS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "IST",
+    "ArrivalAirport": "TBS",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-11-05 18:44:12.337 UTC"
+  },
+  {
+    "TripId": "8VB7GlFRz7Af+5QA9Uqd6zlDomiXlhXwj4YyG1g/3E4=",
+    "Itinerary": "LHR-HEL-TKU-HEL-LHR",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "HEL",
+    "ArrivalAirport": "TKU",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-11-19 13:18:50.343 UTC"
+  },
+  {
+    "TripId": "RCkksSu1nDuvpyPRIqBjfiWiouMRiIJjipekCh1xQxA=",
+    "Itinerary": "YYZ-CAN-KMG-CAN-YYZ",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "KMG",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-08-04 01:59:49.653 UTC"
+  },
+  {
+    "TripId": "DbqPBW7wMtg1ioc3zTkXK4AUT+41ljx/r4GPb84KTcU=",
+    "Itinerary": "LAX-HND-NRT-ICN-LAX",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ICN",
+    "ArrivalAirport": "LAX",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-04-12 00:34:10.140 UTC"
+  },
+  {
+    "TripId": "3rY/bTrb8UwUw/fjwQgHos3xA7G16CFZisMR3WVWFC4=",
+    "Itinerary": "CAN-LHR-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MNL",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-05 08:39:07.757 UTC"
+  },
+  {
+    "TripId": "ehIMBrnQE+BWI6HE1Z1n+M5PTk+n+DOI/AoPAkLjDhc=",
+    "Itinerary": "BKK-CAN-YVR-CAN-BKK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "BKK",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-10-27 06:48:29.140 UTC"
+  },
+  {
+    "TripId": "RqcKA9alUF/GgggTHK7Og+KzcTo0sa8RRrg9YRk6pNQ=",
+    "Itinerary": "UFA-SVO-DXB-SVO-UFA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "UFA",
+    "ArrivalAirport": "SVO",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-04-20 17:08:48.893 UTC"
+  },
+  {
+    "TripId": "dJd+cXvI3d4+BVEdMWhqr3KtgyVakig+3HxT4OowCdg=",
+    "Itinerary": "MUC-SVO-MUC",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SVO",
+    "ArrivalAirport": "MUC",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-08-23 11:50:36.260 UTC"
+  },
+  {
+    "TripId": "ANlIEI3X9SfyCUqSnmoQECLxKzhzlsu3fXL7bV60b8Q=",
+    "Itinerary": "AMS-MUC-SPU-FRA-LAX-MUC-FRA-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "FRA",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2019-04-29 15:39:00.627 UTC"
+  },
+  {
+    "TripId": "Vdc0MpJ/HEBvQOG1SVvJrwZv5FngeUEJk02ymjyzBdo=",
+    "Itinerary": "ADL-PER-SIN-ZRH-SIN-PER-ADL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ZRH",
+    "ArrivalAirport": "SIN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-11-01 09:06:48.953 UTC"
+  },
+  {
+    "TripId": "dzq8xq0kxElBhXmFwvFBovhBUoEH/Yj/4VE8J99dtp4=",
+    "Itinerary": "CAN-LHR-CAN-AKL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "AKL",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-05 16:17:27.737 UTC"
+  },
+  {
+    "TripId": "5Qz11FJcpCOAPyiBuq3Fo63yU/qdjopRTmPsqXnqaZE=",
+    "Itinerary": "EWR-FRA-IKA-VIE-JFK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "EWR",
+    "ArrivalAirport": "FRA",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-03-13 19:40:39.950 UTC"
+  },
+  {
+    "TripId": "fv/7+NviXwYSVYIz6sFdqdk8QybLprJ4UiC9FjyjAGk=",
+    "Itinerary": "CAN-LHR-CDG-CAN-CEB-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "CEB",
+    "Leg": "1",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2019-03-05 18:12:59.970 UTC"
+  },
+  {
+    "TripId": "2lnYbd31nulDJE2RFcUkcUOPU6dn01LjyF+S2myoTDM=",
+    "Itinerary": "YYZ-LHR-IAD-MSY",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "IAD",
+    "ArrivalAirport": "MSY",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-02-06 11:41:20.680 UTC"
+  },
+  {
+    "TripId": "CLNVN+yNr05PaoH8RzM1jxgOQ9Op9o6P/7F1u413Fac=",
+    "Itinerary": "AMS-EWR-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "EWR",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-10-31 15:41:40.657 UTC"
+  },
+  {
+    "TripId": "J2KfcMbJASH5h1qlzoYazoJjEFoETToIuqZFIXo26Ok=",
+    "Itinerary": "CAN-LHR-CDG-CAN-SGN-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SGN",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-05 14:50:12.377 UTC"
+  },
+  {
+    "TripId": "p/TZ4BwLV/iAWoN/x2MXOvNZTEFr0uxVNAQ0Ivl14t8=",
+    "Itinerary": "BLQ-MAD-EZE-MAD-BLQ",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MAD",
+    "ArrivalAirport": "BLQ",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-01-25 14:56:37.930 UTC"
+  },
+  {
+    "TripId": "YLXYvsO4rwivIpec/vu3X9oHExRB84bPEGulwVfgReA=",
+    "Itinerary": "STR-IST-SYZ-IST-STR",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "IST",
+    "ArrivalAirport": "STR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-04-30 14:34:02.133 UTC"
+  },
+  {
+    "TripId": "6+LoZv3zrFUz2535yEnwLf4JxDd1Yj2yohC16k2be+0=",
+    "Itinerary": "LPL-JER",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "LPL",
+    "ArrivalAirport": "JER",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-09-08 17:40:50.057 UTC"
+  },
+  {
+    "TripId": "SNr+8FqdLprxNV/FyyniC/nnBJXUSbK9yRQpy0gt9cs=",
+    "Itinerary": "BSL-MUC-PEK-ICN-MNL-PEK-MUC-BSL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "PEK",
+    "ArrivalAirport": "MUC",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-04-14 04:01:57.093 UTC"
+  },
+  {
+    "TripId": "p/TZ4BwLV/iAWoN/x2MXOvNZTEFr0uxVNAQ0Ivl14t8=",
+    "Itinerary": "BLQ-MAD-EZE-MAD-BLQ",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MAD",
+    "ArrivalAirport": "EZE",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-01-25 14:56:37.930 UTC"
+  },
+  {
+    "TripId": "yVlqC/EOjT3sgB/2DsYQEACGFHVzjnAH7uR5WYtlX60=",
+    "Itinerary": "SEA-YVR-TPE-YVR-SEA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "YVR",
+    "ArrivalAirport": "SEA",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-04-11 05:24:31.813 UTC"
+  },
+  {
+    "TripId": "vEdmOw0Nen4666nXLmoXuL8+lHB5/U+JhY377Y/miNM=",
+    "Itinerary": "FRA-PHL-SFO-CLT-FRA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SFO",
+    "ArrivalAirport": "CLT",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-10-04 16:46:18.127 UTC"
+  },
+  {
+    "TripId": "uOm5exf2BoMaPgjoz8Qz3mPtxpv9dhgmozStM5sYkZ8=",
+    "Itinerary": "EZE-USH-FTE",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "EZE",
+    "ArrivalAirport": "USH",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-04-16 16:31:26.207 UTC"
+  },
+  {
+    "TripId": "ARyrQlRJLuY3v4GfmrGeo2NFVsH9UUcxJETTLUa4CmY=",
+    "Itinerary": "BRU-LIS-FAO-LIS-BRU",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LIS",
+    "ArrivalAirport": "FAO",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-03-18 10:57:26.430 UTC"
+  },
+  {
+    "TripId": "sSR2vSjUVQompMsCZpAVPap+MWWquBhuFRFrlUoESA0=",
+    "Itinerary": "LAX-LHR-MXP-LHR-LAX",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MXP",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-09-07 00:27:47.630 UTC"
+  },
+  {
+    "TripId": "ANlIEI3X9SfyCUqSnmoQECLxKzhzlsu3fXL7bV60b8Q=",
+    "Itinerary": "AMS-MUC-SPU-FRA-LAX-MUC-FRA-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "FRA",
+    "ArrivalAirport": "LAX",
+    "Leg": "1",
+    "SegmentOrder": "4",
+    "TransactionDateUTC": "2019-04-29 15:39:00.627 UTC"
+  },
+  {
+    "TripId": "oPFheDZFdaqEamWxtTXalXE+3je1ET9MvYJa/H0Sn08=",
+    "Itinerary": "JFK-MEX-GUA-MEX-JFK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "JFK",
+    "ArrivalAirport": "MEX",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-12-01 04:16:30.397 UTC"
+  },
+  {
+    "TripId": "fv/7+NviXwYSVYIz6sFdqdk8QybLprJ4UiC9FjyjAGk=",
+    "Itinerary": "CAN-LHR-CDG-CAN-CEB-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CDG",
+    "ArrivalAirport": "CAN",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-05 18:12:59.970 UTC"
+  },
+  {
+    "TripId": "M9MFaO8ChUMZavGYjlwkGWM5xkvxGzN2aCqIuat6o3c=",
+    "Itinerary": "VNO-KBP-IST-KBP-VNO",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "KBP",
+    "ArrivalAirport": "IST",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-03-16 09:43:33.977 UTC"
+  },
+  {
+    "TripId": "ndY4onQtnKqKFCDwZVfN/lvh5C/boXb2Ob4levFEZJM=",
+    "Itinerary": "AMS-FRA-PUY-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "FRA",
+    "ArrivalAirport": "PUY",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2015-06-23 09:45:14.163 UTC"
+  },
+  {
+    "TripId": "SNr+8FqdLprxNV/FyyniC/nnBJXUSbK9yRQpy0gt9cs=",
+    "Itinerary": "BSL-MUC-PEK-ICN-MNL-PEK-MUC-BSL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MUC",
+    "ArrivalAirport": "PEK",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-04-14 04:01:57.093 UTC"
+  },
+  {
+    "TripId": "5vGgV2sdqnWXoU4Zl+qiCmxG1xgsSWxYRDzL0rKImw8=",
+    "Itinerary": "SCL-PMC-SCL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SCL",
+    "ArrivalAirport": "PMC",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-04-03 12:34:30.210 UTC"
+  },
+  {
+    "TripId": "rkTX6dUUWp7wVGkgBFDAPEKqiGu9XTvrXeCDIaDdoX8=",
+    "Itinerary": "AMS-GIG-FCO-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "GIG",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2014-11-29 05:32:38.117 UTC"
+  },
+  {
+    "TripId": "jOPFVtfF2Ax2M3ecGe2E7e5OKbMFpCPTYBRe4IXswp4=",
+    "Itinerary": "AMS-DXB-KUL-KCH-KUL-DXB-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "KUL",
+    "ArrivalAirport": "KCH",
+    "Leg": "1",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2019-04-16 23:01:48.827 UTC"
+  },
+  {
+    "TripId": "FLyCFbGigASTNSK3COBOZZpT8xoQD5wgZJypYcK8YbQ=",
+    "Itinerary": "AMS-ZRH-SIN-SUB-SIN-ZRH-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SUB",
+    "ArrivalAirport": "SIN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-04-04 13:16:52.077 UTC"
+  },
+  {
+    "TripId": "8iKgRlH+SlUStAj040SKZD+nTPCZp+6ttW6gHF8dz78=",
+    "Itinerary": "ZRH-ZAG-ZRH",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ZRH",
+    "ArrivalAirport": "ZAG",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-03-19 14:03:32.737 UTC"
+  },
+  {
+    "TripId": "z/Hmt93vuYKPbqORyEHf7JX31+UL5uVc63BIXIzr6Kg=",
+    "Itinerary": "EBB-NBO-BKK-NBO-EBB",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "EBB",
+    "ArrivalAirport": "NBO",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-07-07 12:28:00.627 UTC"
+  },
+  {
+    "TripId": "ehIMBrnQE+BWI6HE1Z1n+M5PTk+n+DOI/AoPAkLjDhc=",
+    "Itinerary": "BKK-CAN-YVR-CAN-BKK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "YVR",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-10-27 06:48:29.140 UTC"
+  },
+  {
+    "TripId": "2uuXrhm1TplRdycxQPth6pwfGGND+5uxEl2xcTQQnaw=",
+    "Itinerary": "FRA-ATH-IST",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "FRA",
+    "ArrivalAirport": "ATH",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-09-09 10:27:28 UTC"
+  },
+  {
+    "TripId": "z/Hmt93vuYKPbqORyEHf7JX31+UL5uVc63BIXIzr6Kg=",
+    "Itinerary": "EBB-NBO-BKK-NBO-EBB",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "BKK",
+    "ArrivalAirport": "NBO",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-07-07 12:28:00.627 UTC"
+  },
+  {
+    "TripId": "eJFv7F24cKbPGEds+/IsA+XpohoR50JkMG/2B7BVqP4=",
+    "Itinerary": "MAD-AUH-MLE-AUH-MAD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AUH",
+    "ArrivalAirport": "MAD",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-09-13 09:38:52.997 UTC"
+  },
+  {
+    "TripId": "1NEx2Pg5VFcI+OqGA/3fcxrs9r9hSrI9DPoTfD1b98Y=",
+    "Itinerary": "VIE-AMS-SEA-PHX-ATL-CDG-VIE",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SEA",
+    "ArrivalAirport": "PHX",
+    "Leg": "1",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2015-05-31 09:27:27.910 UTC"
+  },
+  {
+    "TripId": "vqcgbrGPl2fHHU7YxjP4J6QfnjcD+fCDxOgmAzbUCqY=",
+    "Itinerary": "AMS-SVO-CEK-SVO-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SVO",
+    "ArrivalAirport": "CEK",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-05-31 11:21:16.280 UTC"
+  },
+  {
+    "TripId": "Vdc0MpJ/HEBvQOG1SVvJrwZv5FngeUEJk02ymjyzBdo=",
+    "Itinerary": "ADL-PER-SIN-ZRH-SIN-PER-ADL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SIN",
+    "ArrivalAirport": "ZRH",
+    "Leg": "1",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2018-11-01 09:06:48.953 UTC"
+  },
+  {
+    "TripId": "ebNiszYCgq34TCzSgOF3pHMy0k6p1kn1ZQmBn6gzsmk=",
+    "Itinerary": "FRA-AUH-BKK-AUH-FRA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "BKK",
+    "ArrivalAirport": "AUH",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-08-24 16:50:10.750 UTC"
+  },
+  {
+    "TripId": "6+LoZv3zrFUz2535yEnwLf4JxDd1Yj2yohC16k2be+0=",
+    "Itinerary": "JER-LPL",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "JER",
+    "ArrivalAirport": "LPL",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-09-08 17:40:50.787 UTC"
+  },
+  {
+    "TripId": "dh7h2mZ/BkKZ3Ytq7igX66T3zZqfTcZ8BQ3ufFIRFzA=",
+    "Itinerary": "BRU-FCO-BRU",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "FCO",
+    "ArrivalAirport": "BRU",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-01-22 09:13:45.237 UTC"
+  },
+  {
+    "TripId": "RCkksSu1nDuvpyPRIqBjfiWiouMRiIJjipekCh1xQxA=",
+    "Itinerary": "YYZ-CAN-KMG-CAN-YYZ",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "YYZ",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-08-04 01:59:49.653 UTC"
+  },
+  {
+    "TripId": "gYZwxHrT8eF6dInKlSGo3vk4/+IBzTKr4cjBzNV0/LU=",
+    "Itinerary": "SGN-CAN-LAX-CAN-SGN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LAX",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-05-12 05:34:56.767 UTC"
+  },
+  {
+    "TripId": "4ixxKF/XeJ6y2sPK3QPhZ9aUHsuVZiX/NrWYfIgpBtU=",
+    "Itinerary": "AMS-OSL-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "OSL",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-09-28 10:43:26.543 UTC"
+  },
+  {
+    "TripId": "A5B1s2awdWGkC/nnPw1289a/UurdyZ98PxHgepeo1LM=",
+    "Itinerary": "MEX-CAN-MEX-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MNL",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-14 03:58:37.343 UTC"
+  },
+  {
+    "TripId": "e/Iuvx7UOB6sv68zW5xBu1Dg2XDAen55ygTTwCVkTxQ=",
+    "Itinerary": "IST-DXB-KBL",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "DXB",
+    "ArrivalAirport": "KBL",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-11-11 11:14:19.687 UTC"
+  },
+  {
+    "TripId": "lHrYodYSqVYfuvVzhKsssU6RsWdiIZ11GIHm4bTLmew=",
+    "Itinerary": "CPH-CDG-CPH-ORD",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "CPH",
+    "ArrivalAirport": "CDG",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-07-23 18:32:04.307 UTC"
+  },
+  {
+    "TripId": "3cRODY7TGuax5JNvGTdjAdmm/UZuw0NviIVO6g8/xxA=",
+    "Itinerary": "LGW-HKG-KHH-HKG-LGW",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "HKG",
+    "ArrivalAirport": "KHH",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-04-14 21:12:02.657 UTC"
+  },
+  {
+    "TripId": "idFnBu1qfBqdeiaFzhtZUpvSsSMVAnBbiwcXyftTg/U=",
+    "Itinerary": "MIA-GCM-HAV-GCM-MIA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "GCM",
+    "ArrivalAirport": "HAV",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-04-17 17:54:09.863 UTC"
+  },
+  {
+    "TripId": "PD9V91Y6p11SQSq1AMhIIfEIjLa5aEiBviFAGUvxQh8=",
+    "Itinerary": "BCN-TNG-BCN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "TNG",
+    "ArrivalAirport": "BCN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-06-07 13:30:56.853 UTC"
+  },
+  {
+    "TripId": "CZhbSAGB3Ugnr4/f/fTyQuiHth3XKhV8yiSsKbJWAlE=",
+    "Itinerary": "AMS-CGK-BKK",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "CGK",
+    "ArrivalAirport": "BKK",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-03-10 16:27:24.030 UTC"
+  },
+  {
+    "TripId": "RqcKA9alUF/GgggTHK7Og+KzcTo0sa8RRrg9YRk6pNQ=",
+    "Itinerary": "UFA-SVO-DXB-SVO-UFA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SVO",
+    "ArrivalAirport": "DXB",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-04-20 17:08:48.893 UTC"
+  },
+  {
+    "TripId": "uJ22UxMFIohnYhruBFeWDVBhY3Mi8iSXlFNrZdjaxiA=",
+    "Itinerary": "SJO-CUN",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "SJO",
+    "ArrivalAirport": "CUN",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-08-31 01:20:28.900 UTC"
+  },
+  {
+    "TripId": "2uuXrhm1TplRdycxQPth6pwfGGND+5uxEl2xcTQQnaw=",
+    "Itinerary": "FRA-ATH-IST",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "ATH",
+    "ArrivalAirport": "IST",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-09-09 10:27:28 UTC"
+  },
+  {
+    "TripId": "EHEEC0AEQqI0C3RA6+oPCjRvDui5wAjpb/WSkOYo6v0=",
+    "Itinerary": "BUD-DXB-DPS-DXB-BUD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "BUD",
+    "ArrivalAirport": "DXB",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-02-26 18:32:45.143 UTC"
+  },
+  {
+    "TripId": "3RD1DtwULmKdc2UH0rN1NAhukQz1bcGnNYt+1qwKT9U=",
+    "Itinerary": "AMS-ATL-SAT-ATL-EWR-JFK-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ATL",
+    "ArrivalAirport": "EWR",
+    "Leg": "1",
+    "SegmentOrder": "4",
+    "TransactionDateUTC": "2015-03-05 17:41:34.727 UTC"
+  },
+  {
+    "TripId": "fv/7+NviXwYSVYIz6sFdqdk8QybLprJ4UiC9FjyjAGk=",
+    "Itinerary": "CAN-LHR-CDG-CAN-CEB-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CEB",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-05 18:12:59.970 UTC"
+  },
+  {
+    "TripId": "TGtKICQ27vDtHGfOdebEkhQuUcXOJT/P+hWY09oubLs=",
+    "Itinerary": "BKK-IST-TUN",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "BKK",
+    "ArrivalAirport": "IST",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-01-05 14:43:54.510 UTC"
+  },
+  {
+    "TripId": "L7uAFac3tDuQFZo903A3cojnf1m6rVo0dzzX5As1iKI=",
+    "Itinerary": "AMS-IST-AQJ-IST-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "IST",
+    "ArrivalAirport": "AQJ",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2015-12-27 15:37:36.683 UTC"
+  },
+  {
+    "TripId": "MasSN5te7Sexf2bJMPjhl57+hIOKh7kPgAKaRCKTZNk=",
+    "Itinerary": "CAN-LHR-WUH-BKK-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "WUH",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-03 20:05:39.703 UTC"
+  },
+  {
+    "TripId": "8VB7GlFRz7Af+5QA9Uqd6zlDomiXlhXwj4YyG1g/3E4=",
+    "Itinerary": "LHR-HEL-TKU-HEL-LHR",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "TKU",
+    "ArrivalAirport": "HEL",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-11-19 13:18:50.343 UTC"
+  },
+  {
+    "TripId": "Jl1z03Hg4dKw46zaSENmluaamlJ+yEFbhdY8WwXKS3I=",
+    "Itinerary": "AMS-RHO-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "RHO",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-03-13 20:38:29.703 UTC"
+  },
+  {
+    "TripId": "rkTX6dUUWp7wVGkgBFDAPEKqiGu9XTvrXeCDIaDdoX8=",
+    "Itinerary": "AMS-GIG-FCO-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "GIG",
+    "ArrivalAirport": "FCO",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2014-11-29 05:32:38.117 UTC"
+  },
+  {
+    "TripId": "oxveUrm3PSb5Tw2SSicNmsVMjZ1kkilVNG92eIHUpdE=",
+    "Itinerary": "KBV-BKK-REP",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "KBV",
+    "ArrivalAirport": "BKK",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-01-02 12:22:20.613 UTC"
+  },
+  {
+    "TripId": "U4nO2ffVciqllI0K8asj64dezqIjWOo3JdaBZq3hPHU=",
+    "Itinerary": "FRA-CMN-JFK-CMN-FRA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CMN",
+    "ArrivalAirport": "JFK",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-11-27 11:34:47.320 UTC"
+  },
+  {
+    "TripId": "sOvofy9Un/t8wCLPuVhjPt8zLhTRUwWfYkESKtH/5qY=",
+    "Itinerary": "CAN-LHR-CAN-DPS-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DPS",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-04 20:50:26.380 UTC"
+  },
+  {
+    "TripId": "3rY/bTrb8UwUw/fjwQgHos3xA7G16CFZisMR3WVWFC4=",
+    "Itinerary": "CAN-LHR-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "CAN",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-05 08:39:07.757 UTC"
+  },
+  {
+    "TripId": "tNukqduJFtlQ7wDqgw53rMVcdsGawKDSIWuFtOtRy2s=",
+    "Itinerary": "MAD-FRA-HND-FRA-MAD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "HND",
+    "ArrivalAirport": "FRA",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-08-30 17:51:02.060 UTC"
+  },
+  {
+    "TripId": "vqcgbrGPl2fHHU7YxjP4J6QfnjcD+fCDxOgmAzbUCqY=",
+    "Itinerary": "AMS-SVO-CEK-SVO-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "SVO",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-05-31 11:21:16.280 UTC"
+  },
+  {
+    "TripId": "oPFheDZFdaqEamWxtTXalXE+3je1ET9MvYJa/H0Sn08=",
+    "Itinerary": "JFK-MEX-GUA-MEX-JFK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MEX",
+    "ArrivalAirport": "JFK",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-12-01 04:16:30.397 UTC"
+  },
+  {
+    "TripId": "MasSN5te7Sexf2bJMPjhl57+hIOKh7kPgAKaRCKTZNk=",
+    "Itinerary": "CAN-LHR-WUH-BKK-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "WUH",
+    "ArrivalAirport": "BKK",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-03 20:05:39.703 UTC"
+  },
+  {
+    "TripId": "YLXYvsO4rwivIpec/vu3X9oHExRB84bPEGulwVfgReA=",
+    "Itinerary": "STR-IST-SYZ-IST-STR",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SYZ",
+    "ArrivalAirport": "IST",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-04-30 14:34:02.133 UTC"
+  },
+  {
+    "TripId": "M9MFaO8ChUMZavGYjlwkGWM5xkvxGzN2aCqIuat6o3c=",
+    "Itinerary": "VNO-KBP-IST-KBP-VNO",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "KBP",
+    "ArrivalAirport": "VNO",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-03-16 09:43:33.977 UTC"
+  },
+  {
+    "TripId": "A5B1s2awdWGkC/nnPw1289a/UurdyZ98PxHgepeo1LM=",
+    "Itinerary": "MEX-CAN-MEX-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MEX",
+    "ArrivalAirport": "CAN",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-14 03:58:37.343 UTC"
+  },
+  {
+    "TripId": "vy/qq5XCjGAyvhMAT/Me5mp9aDQG4GT/KNm795od6Lc=",
+    "Itinerary": "HKG-DXB-HKG",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DXB",
+    "ArrivalAirport": "HKG",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-05-02 23:57:56.307 UTC"
+  },
+  {
+    "TripId": "3rY/bTrb8UwUw/fjwQgHos3xA7G16CFZisMR3WVWFC4=",
+    "Itinerary": "CAN-LHR-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "MNL",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-05 08:39:07.757 UTC"
+  },
+  {
+    "TripId": "oh838Vigw6X16OMwM3B2l+/rFVKccefT0YJxaXOPgGw=",
+    "Itinerary": "DMK-KTM-DMK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DMK",
+    "ArrivalAirport": "KTM",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-05-04 05:38:30.250 UTC"
+  },
+  {
+    "TripId": "idFnBu1qfBqdeiaFzhtZUpvSsSMVAnBbiwcXyftTg/U=",
+    "Itinerary": "MIA-GCM-HAV-GCM-MIA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "GCM",
+    "ArrivalAirport": "MIA",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-04-17 17:54:09.863 UTC"
+  },
+  {
+    "TripId": "jOPFVtfF2Ax2M3ecGe2E7e5OKbMFpCPTYBRe4IXswp4=",
+    "Itinerary": "AMS-DXB-KUL-KCH-KUL-DXB-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DXB",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2019-04-16 23:01:48.827 UTC"
+  },
+  {
+    "TripId": "bbdY4uUvdFlrpnTN68q8prsWDIDGJa5zQDuJCAaTDAE=",
+    "Itinerary": "DOH-KWI-CAI-KWI-DOH",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAI",
+    "ArrivalAirport": "KWI",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-08-23 02:04:27.047 UTC"
+  },
+  {
+    "TripId": "RqcKA9alUF/GgggTHK7Og+KzcTo0sa8RRrg9YRk6pNQ=",
+    "Itinerary": "UFA-SVO-DXB-SVO-UFA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SVO",
+    "ArrivalAirport": "UFA",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-04-20 17:08:48.893 UTC"
+  },
+  {
+    "TripId": "dzq8xq0kxElBhXmFwvFBovhBUoEH/Yj/4VE8J99dtp4=",
+    "Itinerary": "CAN-LHR-CAN-AKL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AKL",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-05 16:17:27.737 UTC"
+  },
+  {
+    "TripId": "eJFv7F24cKbPGEds+/IsA+XpohoR50JkMG/2B7BVqP4=",
+    "Itinerary": "MAD-AUH-MLE-AUH-MAD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MLE",
+    "ArrivalAirport": "AUH",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-09-13 09:38:52.997 UTC"
+  },
+  {
+    "TripId": "HPLEyvkReIXi0IDrV3hQlEj36kH5qD3KVoewtPATVjk=",
+    "Itinerary": "FRA-SAW-FRA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "FRA",
+    "ArrivalAirport": "SAW",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-04-06 16:52:14.950 UTC"
+  },
+  {
+    "TripId": "fv/7+NviXwYSVYIz6sFdqdk8QybLprJ4UiC9FjyjAGk=",
+    "Itinerary": "CAN-LHR-CDG-CAN-CEB-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-05 18:12:59.970 UTC"
+  },
+  {
+    "TripId": "qXntnOAZ6xo8iqhgamrEy85fYFZcVAvAVO6JLvgmVmg=",
+    "Itinerary": "JNB-AUH-FCO-AUH-JNB",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AUH",
+    "ArrivalAirport": "FCO",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-12-14 05:52:38.303 UTC"
+  },
+  {
+    "TripId": "tpDWpdNQbyDu9O7Ls06qGTWFiWFX9lN7KtvNv0/uY5Y=",
+    "Itinerary": "SIN-IST-KBP-IST-SIN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "IST",
+    "ArrivalAirport": "KBP",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-06-10 03:55:43.673 UTC"
+  },
+  {
+    "TripId": "L7uAFac3tDuQFZo903A3cojnf1m6rVo0dzzX5As1iKI=",
+    "Itinerary": "AMS-IST-AQJ-IST-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "IST",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2015-12-27 15:37:36.683 UTC"
+  },
+  {
+    "TripId": "sOvofy9Un/t8wCLPuVhjPt8zLhTRUwWfYkESKtH/5qY=",
+    "Itinerary": "CAN-LHR-CAN-DPS-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "CAN",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-04 20:50:26.380 UTC"
+  },
+  {
+    "TripId": "3rY/bTrb8UwUw/fjwQgHos3xA7G16CFZisMR3WVWFC4=",
+    "Itinerary": "CAN-LHR-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-05 08:39:07.757 UTC"
+  },
+  {
+    "TripId": "1NEx2Pg5VFcI+OqGA/3fcxrs9r9hSrI9DPoTfD1b98Y=",
+    "Itinerary": "VIE-AMS-SEA-PHX-ATL-CDG-VIE",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "PHX",
+    "ArrivalAirport": "ATL",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-05-31 09:27:27.910 UTC"
+  },
+  {
+    "TripId": "tNukqduJFtlQ7wDqgw53rMVcdsGawKDSIWuFtOtRy2s=",
+    "Itinerary": "MAD-FRA-HND-FRA-MAD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MAD",
+    "ArrivalAirport": "FRA",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-08-30 17:51:02.060 UTC"
+  },
+  {
+    "TripId": "eJFv7F24cKbPGEds+/IsA+XpohoR50JkMG/2B7BVqP4=",
+    "Itinerary": "MAD-AUH-MLE-AUH-MAD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MAD",
+    "ArrivalAirport": "AUH",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-09-13 09:38:52.997 UTC"
+  },
+  {
+    "TripId": "DXZqHD1XDhEgha/Rl9gKyO6CincYvq/Fn2VYrSGRd2U=",
+    "Itinerary": "CAN-LHR-CDG-CAN-SGN-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SGN",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-03 20:47:42.267 UTC"
+  },
+  {
+    "TripId": "OSVPGJmIypAJfZYnbNDZXovuIQv97eSJmtx5cN8XIVc=",
+    "Itinerary": "LHR-JFK-LHR",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "JFK",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-22 19:16:08.053 UTC"
+  },
+  {
+    "TripId": "oWlXIWpAnqTtp/n/l19SQqdX5Qmcgm7OVq62nlqD0AY=",
+    "Itinerary": "PHL-YUL-BCN-YUL-PHL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "YUL",
+    "ArrivalAirport": "BCN",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-01 19:16:17.687 UTC"
+  },
+  {
+    "TripId": "Vdc0MpJ/HEBvQOG1SVvJrwZv5FngeUEJk02ymjyzBdo=",
+    "Itinerary": "ADL-PER-SIN-ZRH-SIN-PER-ADL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SIN",
+    "ArrivalAirport": "PER",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-11-01 09:06:48.953 UTC"
+  },
+  {
+    "TripId": "A5B1s2awdWGkC/nnPw1289a/UurdyZ98PxHgepeo1LM=",
+    "Itinerary": "MEX-CAN-MEX-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "MEX",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-14 03:58:37.343 UTC"
+  },
+  {
+    "TripId": "FLyCFbGigASTNSK3COBOZZpT8xoQD5wgZJypYcK8YbQ=",
+    "Itinerary": "AMS-ZRH-SIN-SUB-SIN-ZRH-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ZRH",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2018-04-04 13:16:52.077 UTC"
+  },
+  {
+    "TripId": "KjbQqpAafXKYp8LsUFKMEOuVN44CJeZxAlsOzAtCGz4=",
+    "Itinerary": "LAX-AKL-SFO",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "AKL",
+    "ArrivalAirport": "SFO",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-07-03 07:47:59.823 UTC"
+  },
+  {
+    "TripId": "lHrYodYSqVYfuvVzhKsssU6RsWdiIZ11GIHm4bTLmew=",
+    "Itinerary": "CPH-CDG-CPH-ORD",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "CPH",
+    "ArrivalAirport": "ORD",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-07-23 18:32:04.307 UTC"
+  },
+  {
+    "TripId": "tNukqduJFtlQ7wDqgw53rMVcdsGawKDSIWuFtOtRy2s=",
+    "Itinerary": "MAD-FRA-HND-FRA-MAD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "FRA",
+    "ArrivalAirport": "MAD",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-08-30 17:51:02.060 UTC"
+  },
+  {
+    "TripId": "nJgP9wfyKV7j08qV0qJ7hOsz3A+Ba4EX3TI+v/AgToI=",
+    "Itinerary": "AMS-LHR-EZE-LHR-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "EZE",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-01-08 12:58:45.657 UTC"
+  },
+  {
+    "TripId": "nJgP9wfyKV7j08qV0qJ7hOsz3A+Ba4EX3TI+v/AgToI=",
+    "Itinerary": "AMS-LHR-EZE-LHR-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "LHR",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-01-08 12:58:45.657 UTC"
+  },
+  {
+    "TripId": "Ca2Khnj1/xEmsFG/5/D1d565hhElMEBTrjZP9xWtfFo=",
+    "Itinerary": "YVR-CAN-DEL-CAN-YVR",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "YVR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-04-10 07:14:34.087 UTC"
+  },
+  {
+    "TripId": "nJgP9wfyKV7j08qV0qJ7hOsz3A+Ba4EX3TI+v/AgToI=",
+    "Itinerary": "AMS-LHR-EZE-LHR-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "EZE",
+    "Leg": "1",
+    "SegmentOrder": "4",
+    "TransactionDateUTC": "2019-01-08 12:58:45.657 UTC"
+  },
+  {
+    "TripId": "0jHM3RUKRjTvNLGnKnWG6ME3Uq9C881QlK+jLq8zd2k=",
+    "Itinerary": "YUL-DOH-DXB-DOH-YUL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DOH",
+    "ArrivalAirport": "DXB",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2017-03-12 20:28:38.847 UTC"
+  },
+  {
+    "TripId": "ZvWFPt6gKyIUsVvXsmnGTrKgztAXbrNUKqZzJCJqlJc=",
+    "Itinerary": "MEX-IAH-SYD-TSV",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "SYD",
+    "ArrivalAirport": "TSV",
+    "Leg": "1",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2018-09-10 04:00:37.950 UTC"
+  },
+  {
+    "TripId": "ckrQOydLbP0wpMiodFTHkV7tygnR2xK06B3KD7aIIGk=",
+    "Itinerary": "HAN-SVO-FRA-SXF-SVO-HAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "HAN",
+    "ArrivalAirport": "SVO",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-12-05 13:55:31.467 UTC"
+  },
+  {
+    "TripId": "4ixxKF/XeJ6y2sPK3QPhZ9aUHsuVZiX/NrWYfIgpBtU=",
+    "Itinerary": "AMS-OSL-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "OSL",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-09-28 10:43:26.543 UTC"
+  },
+  {
+    "TripId": "mYgoANMZQKrmbSv7vMhJ/R9akKHy8xSWwm5EwVD8ixk=",
+    "Itinerary": "CAN-LHR-AMS-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "CAN",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-06 01:24:14.640 UTC"
+  },
+  {
+    "TripId": "wTDf4FwQXYdGxsP7sbEhFi5Qf7G0127Bg/QB/yn7QbM=",
+    "Itinerary": "CAN-LHR-CAN-SGN-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SGN",
+    "ArrivalAirport": "CAN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-05 19:53:04.017 UTC"
+  },
+  {
+    "TripId": "wTDf4FwQXYdGxsP7sbEhFi5Qf7G0127Bg/QB/yn7QbM=",
+    "Itinerary": "CAN-LHR-CAN-SGN-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "SGN",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-05 19:53:04.017 UTC"
+  },
+  {
+    "TripId": "U4nO2ffVciqllI0K8asj64dezqIjWOo3JdaBZq3hPHU=",
+    "Itinerary": "FRA-CMN-JFK-CMN-FRA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "JFK",
+    "ArrivalAirport": "CMN",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-11-27 11:34:47.320 UTC"
+  },
+  {
+    "TripId": "Vdc0MpJ/HEBvQOG1SVvJrwZv5FngeUEJk02ymjyzBdo=",
+    "Itinerary": "ADL-PER-SIN-ZRH-SIN-PER-ADL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "PER",
+    "ArrivalAirport": "ADL",
+    "Leg": "2",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2018-11-01 09:06:48.953 UTC"
+  },
+  {
+    "TripId": "QxX1VmASrQFoja9ISAIpW82f90gereW9qxutTjMU4Rs=",
+    "Itinerary": "CAN-LHR-CAN-DPS-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "CAN",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-02 16:30:30.030 UTC"
+  },
+  {
+    "TripId": "1hZhErT+98Z4M/ad2OkXq2RKVtLhzSMdh1WnLiQjxnQ=",
+    "Itinerary": "JHB-KUL-TPE-KUL-JHB",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "KUL",
+    "ArrivalAirport": "JHB",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-11-29 10:40:08.330 UTC"
+  },
+  {
+    "TripId": "oPFheDZFdaqEamWxtTXalXE+3je1ET9MvYJa/H0Sn08=",
+    "Itinerary": "JFK-MEX-GUA-MEX-JFK",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "MEX",
+    "ArrivalAirport": "GUA",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-12-01 04:16:30.397 UTC"
+  },
+  {
+    "TripId": "eJFv7F24cKbPGEds+/IsA+XpohoR50JkMG/2B7BVqP4=",
+    "Itinerary": "MAD-AUH-MLE-AUH-MAD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AUH",
+    "ArrivalAirport": "MLE",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2016-09-13 09:38:52.997 UTC"
+  },
+  {
+    "TripId": "2twW/8NF2qW3tA2N/d45Tr14hxNSAbUq6uDiz+XYG9M=",
+    "Itinerary": "OPO-AMS-ICN-AMS-OPO",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "ICN",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-05-05 09:28:45.650 UTC"
+  },
+  {
+    "TripId": "tpDWpdNQbyDu9O7Ls06qGTWFiWFX9lN7KtvNv0/uY5Y=",
+    "Itinerary": "SIN-IST-KBP-IST-SIN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SIN",
+    "ArrivalAirport": "IST",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-06-10 03:55:43.673 UTC"
+  },
+  {
+    "TripId": "L7uAFac3tDuQFZo903A3cojnf1m6rVo0dzzX5As1iKI=",
+    "Itinerary": "AMS-IST-AQJ-IST-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "IST",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-12-27 15:37:36.683 UTC"
+  },
+  {
+    "TripId": "sOvofy9Un/t8wCLPuVhjPt8zLhTRUwWfYkESKtH/5qY=",
+    "Itinerary": "CAN-LHR-CAN-DPS-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-04 20:50:26.380 UTC"
+  },
+  {
+    "TripId": "KjbQqpAafXKYp8LsUFKMEOuVN44CJeZxAlsOzAtCGz4=",
+    "Itinerary": "LAX-AKL-SFO",
+    "OneWayOrReturn": "One Way",
+    "DepartureAirport": "LAX",
+    "ArrivalAirport": "AKL",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-07-03 07:47:59.823 UTC"
+  },
+  {
+    "TripId": "WJmKqOvRMykNU6o/fqXD3DtcObr/pnAKeAT7D+ECaEs=",
+    "Itinerary": "AMS-IST-KTM-IST-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "KTM",
+    "ArrivalAirport": "IST",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-06-19 18:42:53.257 UTC"
+  },
+  {
+    "TripId": "PEbOqqCNFkkaU8QAVWRE6cJcdN9ARB3zC/EstvdZK0w=",
+    "Itinerary": "LOS-ADD-DXB-ADD-LOS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DXB",
+    "ArrivalAirport": "ADD",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-01-13 14:04:35.283 UTC"
+  },
+  {
+    "TripId": "nJgP9wfyKV7j08qV0qJ7hOsz3A+Ba4EX3TI+v/AgToI=",
+    "Itinerary": "AMS-LHR-EZE-LHR-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "4",
+    "TransactionDateUTC": "2019-01-08 12:58:45.657 UTC"
+  },
+  {
+    "TripId": "PEbOqqCNFkkaU8QAVWRE6cJcdN9ARB3zC/EstvdZK0w=",
+    "Itinerary": "LOS-ADD-DXB-ADD-LOS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LOS",
+    "ArrivalAirport": "ADD",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-01-13 14:04:35.283 UTC"
+  },
+  {
+    "TripId": "vb1vbG8EyBGJHDq2nrAtC2+Hx7bMFGvo/QicQX7dHck=",
+    "Itinerary": "LBA-AMS-LBA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LBA",
+    "ArrivalAirport": "AMS",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-02-09 21:51:50.780 UTC"
+  },
+  {
+    "TripId": "6D3QyBBoWRGn6Xc29Vl3nlHlY+xDDK5CAciIx1xIXa0=",
+    "Itinerary": "LAX-YYZ-TLV-AMM-VIE-LAX",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMM",
+    "ArrivalAirport": "VIE",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-10-01 20:15:19.043 UTC"
+  },
+  {
+    "TripId": "5e3bhKp2GoCrP3JQEYZmR5rUI7MZo+RxlxQB33suyY0=",
+    "Itinerary": "CAN-LHR-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "MNL",
+    "Leg": "1",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2019-03-02 17:04:06.013 UTC"
+  },
+  {
+    "TripId": "5e3bhKp2GoCrP3JQEYZmR5rUI7MZo+RxlxQB33suyY0=",
+    "Itinerary": "CAN-LHR-CAN-MNL-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "CAN",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-03-02 17:04:06.013 UTC"
+  },
+  {
+    "TripId": "SNr+8FqdLprxNV/FyyniC/nnBJXUSbK9yRQpy0gt9cs=",
+    "Itinerary": "BSL-MUC-PEK-ICN-MNL-PEK-MUC-BSL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "PEK",
+    "ArrivalAirport": "ICN",
+    "Leg": "1",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2019-04-14 04:01:57.093 UTC"
+  },
+  {
+    "TripId": "8VB7GlFRz7Af+5QA9Uqd6zlDomiXlhXwj4YyG1g/3E4=",
+    "Itinerary": "LHR-HEL-TKU-HEL-LHR",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "HEL",
+    "ArrivalAirport": "LHR",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-11-19 13:18:50.343 UTC"
+  },
+  {
+    "TripId": "M9MFaO8ChUMZavGYjlwkGWM5xkvxGzN2aCqIuat6o3c=",
+    "Itinerary": "VNO-KBP-IST-KBP-VNO",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "VNO",
+    "ArrivalAirport": "KBP",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-03-16 09:43:33.977 UTC"
+  },
+  {
+    "TripId": "ndY4onQtnKqKFCDwZVfN/lvh5C/boXb2Ob4levFEZJM=",
+    "Itinerary": "AMS-FRA-PUY-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "PUY",
+    "ArrivalAirport": "AMS",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2015-06-23 09:45:14.163 UTC"
+  },
+  {
+    "TripId": "M9MFaO8ChUMZavGYjlwkGWM5xkvxGzN2aCqIuat6o3c=",
+    "Itinerary": "VNO-KBP-IST-KBP-VNO",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "IST",
+    "ArrivalAirport": "KBP",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-03-16 09:43:33.977 UTC"
+  },
+  {
+    "TripId": "WJmKqOvRMykNU6o/fqXD3DtcObr/pnAKeAT7D+ECaEs=",
+    "Itinerary": "AMS-IST-KTM-IST-AMS",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "AMS",
+    "ArrivalAirport": "IST",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-06-19 18:42:53.257 UTC"
+  },
+  {
+    "TripId": "ARyrQlRJLuY3v4GfmrGeo2NFVsH9UUcxJETTLUa4CmY=",
+    "Itinerary": "BRU-LIS-FAO-LIS-BRU",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "LIS",
+    "ArrivalAirport": "BRU",
+    "Leg": "2",
+    "SegmentOrder": "2",
+    "TransactionDateUTC": "2018-03-18 10:57:26.430 UTC"
+  },
+  {
+    "TripId": "yVlqC/EOjT3sgB/2DsYQEACGFHVzjnAH7uR5WYtlX60=",
+    "Itinerary": "SEA-YVR-TPE-YVR-SEA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "SEA",
+    "ArrivalAirport": "YVR",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2019-04-11 05:24:31.813 UTC"
+  },
+  {
+    "TripId": "NLfiuxrGh/uvRg98qYktjQPB3Uu8TjDFBz/sqR32VJU=",
+    "Itinerary": "GVA-LUX-GVA",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "GVA",
+    "ArrivalAirport": "LUX",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2016-07-31 10:19:49.273 UTC"
+  },
+  {
+    "TripId": "DXZqHD1XDhEgha/Rl9gKyO6CincYvq/Fn2VYrSGRd2U=",
+    "Itinerary": "CAN-LHR-CDG-CAN-SGN-CAN",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "CAN",
+    "ArrivalAirport": "SGN",
+    "Leg": "1",
+    "SegmentOrder": "3",
+    "TransactionDateUTC": "2019-03-03 20:47:42.267 UTC"
+  },
+  {
+    "TripId": "0jHM3RUKRjTvNLGnKnWG6ME3Uq9C881QlK+jLq8zd2k=",
+    "Itinerary": "YUL-DOH-DXB-DOH-YUL",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "YUL",
+    "ArrivalAirport": "DOH",
+    "Leg": "1",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2017-03-12 20:28:38.847 UTC"
+  },
+  {
+    "TripId": "EHEEC0AEQqI0C3RA6+oPCjRvDui5wAjpb/WSkOYo6v0=",
+    "Itinerary": "BUD-DXB-DPS-DXB-BUD",
+    "OneWayOrReturn": "Return",
+    "DepartureAirport": "DPS",
+    "ArrivalAirport": "DXB",
+    "Leg": "2",
+    "SegmentOrder": "1",
+    "TransactionDateUTC": "2018-02-26 18:32:45.143 UTC"
+  }
+]
