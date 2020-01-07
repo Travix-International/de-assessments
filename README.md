@@ -1,66 +1,81 @@
-Using the docker image (https://github.com/puckel/docker-airflow) please complete the following tasks.
+The goal of this assessment is for you to show us your data engineering experience, from designing to implementing a solution.
 
-## Task 1 - Getting Airflow up and running
-Since the tasks are simple, you can use LocalExecutor.
-docker-compose -f docker-compose-LocalExecutor.yml up -d
+This exercise consists of multiple phases. Ideally the end result covers all phases, however when you feel you're unable to complete a certain step you can pass and try to continue on the next.
 
-As a test, we expect you to get the docker container up and running.
-Once you are able to use it, as a small task, use airflow repository as a source and the same database as a target to create a table in the following structure:
- - table_name (string): table name in the airflow repository
- - row_number (int): number of rows within that table
+## Assessment
 
-There are 22 tables in the repository (dag_run, dag, connection, job, sla_miss, etc.).
+We'd like to analyze flight information for a set of transactions which are shared as data input files. Because we prefer sustainable applications and data pipelines we encourage you to think about scalability and maintainability. The input files are relatively small, but imagine we receive a tenfold of this data per day when designing a solution. 
 
-The deliverables of this task are 
- - a dag file for the pipeline
- - a csv of the data of the final table
+Your mission is to design and implement one or multiple applications or data pipelines to consume these files, store the data to an analytical store and deliver (some of) the requested insights. 
 
-| table_name   | row_count |
-| ------------ | --------- |
-| dag_run      | 0         |
-| dag_stats    | 0         |
-| import_error | 0         |
-| known_event  | 0         |
-| ...          |           |
+The obvious and most simple solution would be to load data into a spreadsheet or data platform of your choice manually, however we would be more impressed with a solution which includes technologies like Kubernetes, Docker, message queue or message broker (i.e. RMQ, Kafka; *we use Google Pub/Sub*), data processing (i.e. Spark; *we use Google DataFlow/Apache Beam*), orchestration (*we use Apache Airflow*), storage layer (i.e. HDFS, Redshift; *we use Google BigQuery*)
+
+We've described a possible approach in the phases below
+
+### Phase 1
+Write a small applications which reads the data from all input files and published the data to a message broker like Kafka or Pub/Sub. Use a docker container to run the application.
+
+### Phase 2
+Write a small data processing pipeline to consume data from the message broker and store/ingest data to a storage layer of choice, i.e. BigQuery. Add any additional metadata you think is useful and add transformations or (de)normalization steps.
+
+### Phase 3
+Write the necessary SQL statements to gain the required insights.
+
+## Requirements
+
+* A simple design/diagram explaining your solution
+* A link to your personal github repo or a zip-file containing (pseudo-) code files in your language of choice (we prefer Python/Java), SQL scripts, Dockerfiles, Jupyter notebooks etc..
+* At least the following insights, preferably visualized by plotting charts:
+  * From which Country are most transactions originating? How many transactions is this?
+  * What's the split between domestic vs international transactions? 
+  * What's the distribution of number of segments included in transactions?
+  * ...
+
+## Input Files
+All input files are in JSON format and gzipped, the schema's for them are described below.
+
+The transactions table has the following (nested) structure:
+
+| Field name | Type |
+--- | --- | ---
+| UniqueId | STRING |
+| TransactionDateUTC | STRING |
+| Itinerary | STRING | 
+| OriginAirportCode | STRING |
+| DestinationAirportCode | STRING |
+| OneWayOrReturn | STRING |
+| Segment | RECORD |
+| Segment.DepartureAirportCode | STRING |
+| Segment.ArrivalAirportCode | STRING |
+| Segment.SegmentNumber | STRING |
+| Segment.LegNumber | STRING |
+| Segment.NumberOfPassengers | STRING |
+
+The various AirportCode fields join to the location table.
+
+---
+
+The locations table has the following structure:
+
+| Field name | Type |
+--- | --- | ---
+| AirportCode | STRING |
+| CountryName | STRING |
+| Region | STRING |
 
 
-## Task 2 - Cleansing
-For this task, your input is the data_cleansing_input.json file. The data is in json format.
+## Useful resources
+The following tools and resources can be of use while creating and implementing a solution
 
-This data consists of trips. A trip is identified by a TripId.
-Each trip is formed of Legs. A Leg defines an origin and a destination. Each trip has at least one Leg. You can consider this as the travel direction. Each Leg has at least one Segment.
-Segments are all parts from the leg, including all intermediate stops until the destination is reached.
+* Apache Airflow, this repo has a nice starting point: https://github.com/puckel/docker-airflow
 
-The order with the TripId 'a1' has 2 Legs. The origin of the first Leg is MEX and the destination is MNL. The second Leg is the return.
-In this example, each Leg consists of 2 segments where CAN is the intermediate stop.
+    Since the tasks are simple, you can use LocalExecutor:
+    > docker-compose -f docker-compose-LocalExecutor.yml up -d
 
-| TripId | Itinerary               | OneWayOrReturn | DepartureAirport | ArrivalAirport | Leg | SegmentOrder | TransactionDateUTC          |
-| ------ | ----------------------- | -------------- | ---------------- | -------------- | --- | ------------ | --------------------------- |
-| a1     | MEX-CAN-MEX-CAN-MNL-CAN | Return         | MEX              | CAN            | 1   | 1            | 2019-03-14 03:58:37.343 UTC |
-| a1     | MEX-CAN-MEX-CAN-MNL-CAN | Return         | CAN              | MNL            | 1   | 2            | 2019-03-14 03:58:37.343 UTC |
-| a1     | MEX-CAN-MEX-CAN-MNL-CAN | Return         | MNL              | CAN            | 2   | 1            | 2019-03-14 03:58:37.343 UTC |
-| a1     | MEX-CAN-MEX-CAN-MNL-CAN | Return         | CAN              | MEX            | 2   | 2            | 2019-03-14 03:58:37.343 UTC |
+## Bonus
 
-The correct order of those flights can be calculated by ordering with respect to Leg and SegmentOrder fields.
-As you can see from the sample data above, the itinerary column within the data is produced erroneously. The correct Itinerary for this order should be MEX-CAN-MNL-CAN-MEX.
-
-We expect you to give us a list of trips (TripId) that have erroneous Itinerary information. 
-In addition to that, we also want you to check whether OneWayOrReturn field is correct or not. A trip is a "Return" if the initial DepartureAirport is equal to the final ArrivalAirport. Otherwise is should be a "One Way" trip.
-
-You may need to deduplicate the data as well. For this, you can consider TripId, Leg and SegmentOrder to be unique.
-
-We expect you to have a clean, readable code with tests and comments where necessary.
-
-The deliverables of this task are
- - a dag file for the pipeline
- - a csv file of TripId's that has wrong Itinerary or OneWayOrReturn information and a column stating that reason
-
-| TripId | Reason         |
-| ------ | -------------- |
-| a1     | Itinerary      |
-| z5     | Itinerary      |
-| a4     | OneWayOrReturn |
-| h6     | Itinerary      |
-| ...    |                |
-
-Bonus: There can be several processing methods to accomplish this task eg. Beam, Spark, SQL or even basic Python libraries. There are bonus points if you implement a second method.
+* When your code is deployable or runs locally
+* Any form of unit/E2E testing
+* Additional metadata or data lineage information
+* Any form of automation
+* Impress us!
