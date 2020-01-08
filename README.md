@@ -37,7 +37,7 @@ All input files are in JSON format and gzipped, the schema's for them are descri
 The transactions table has the following (nested) structure:
 
 | Field name | Type |
---- | --- | ---
+| --- | --- |
 | UniqueId | STRING |
 | TransactionDateUTC | STRING |
 | Itinerary | STRING | 
@@ -58,7 +58,7 @@ The various AirportCode fields join to the location table.
 The locations table has the following structure:
 
 | Field name | Type |
---- | --- | ---
+--- | ---
 | AirportCode | STRING |
 | CountryName | STRING |
 | Region | STRING |
