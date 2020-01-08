@@ -13,7 +13,7 @@ The obvious and most simple solution would be to load data into a spreadsheet or
 We've described a possible approach in the phases below
 
 ### Phase 1
-Write a small applications which reads the data from all input files and published the data to a message broker like Kafka or Pub/Sub. Use a docker container to run the application.
+Write a small application which reads the data from all input files and publishes the data to a message broker like Kafka or Pub/Sub. Use a docker container to run the application.
 
 ### Phase 2
 Write a small data processing pipeline to consume data from the message broker and store/ingest data to a storage layer of choice, i.e. BigQuery. Add any additional metadata you think is useful and add transformations or (de)normalization steps.
